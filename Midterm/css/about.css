@@ -1,0 +1,25 @@
+body{
+	width: 960px;
+	margin: 0 auto;
+	background: url("images/.jpg") no-repeat
+	center center fixed;
+	background-size: cover;
+	font-family: 'Dancing Script', cursive;
+}
+p{
+	
+	color:black;
+	text-align: left;
+	font-size: 50px; 
+
+}
+h1{
+	color:black;
+	text-align: center;
+	font-size: 100px;
+
+}
+h2{
+	font-size: 70px;
+	margin-bottom: 0;
+	}
